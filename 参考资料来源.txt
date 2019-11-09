@@ -7,9 +7,48 @@ LoRa无线技术介绍
 
 百度搜索：LoRa农业智能化
 
-3.市场分析
+！！！！！3.市场分析
 《我国生鲜市场调研报告》 >>> https://wenku.baidu.com/view/aacd0b61951ea76e58fafab069dc5022aaea469c.html###
 
 《一篇完整的市场调查方案、计划、策划书包含哪些内容》 >>>
  https://wenku.baidu.com/view/350318c5777f5acfa1c7aa00b52acfc789eb9ff1.html
+参考市场调查的方法和
+
+
+
+！！！！！《无人机和神经网络用于从上方识别柑橘树》 >>>
+https://dronebelow.com/2018/11/27/drones-and-neural-networking-used-to-identify-citrus-trees-from-above/
+
+
+1 对于地质和自然灾害的预测（洪水 泥石流 冰雹）
+
+预测网：
+https://sites.google.com/site/naturaldisasterpreventiongin/prevention-prediction
+
+！！！！！2 对于植物生长和土壤肥力，土壤湿度方面的研究
+
+！！！！3 对于小型民用无人机技术的研究 发展和进步
+
+《无人机和神经网络用于从上方识别柑橘树》 >>>
+https://dronebelow.com/2018/11/27/drones-and-neural-networking-used-to-identify-citrus-trees-from-above/
+
+
+！！！！！4 对于图像识别的研究（用图像分析出植物的生长情况和结果情况）
+
+《无人机和神经网络用于从上方识别柑橘树》 >>>
+https://dronebelow.com/2018/11/27/drones-and-neural-networking-used-to-identify-citrus-trees-from-above/
+
+
+！！！！5 对于集成式传感器的研究（ 用集成式传感器分析土壤湿度 微量元素 ）
+
+基于LoRa的智能农业系统设计与实现.pdf
+
+
+！！！！！！6 对于城市交通和冷链配送的研究
+
+冷链技术.pdf
+
+！！！！7 对于立体农场的研究和前景（骚猪有）
+
+经济学人0831.pdf
 
