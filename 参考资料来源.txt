@@ -52,3 +52,69 @@ https://dronebelow.com/2018/11/27/drones-and-neural-networking-used-to-identify-
 
 经济学人0831.pdf
 
+
+
+
+
+Reference source [1] 
+	《我国生鲜市场调研报告》##https://wenku.baidu.com/view/aacd0b61951ea76e58fafab069dc5022aaea469c.html###
+
+	《一篇完整的市场调查方案、计划、策划书包含哪些内容》
+##https://wenku.baidu.com/view/350318c5777f5acfa1c7aa00b52acfc789eb9ff1.html
+
+	主题：参考市场调查的方法，从各方面为市场调查收集更多客观数据。
+
+
+Reference source [2] 
+	基于LoRa的智能农业系统设计与实现.pdf
+	设计一套基于LoRa技术的智能农业系统,能够实现实时准确地采集农作物生长环境中各种参数,并能 实时精准地控制大棚中的设备,让大棚中的生长环境保持 在一个平衡的状态,从而满足农作物生长的需求。从现实 意义上看,本系统可以提高农业生产效率与农业产量,同时改善农业安全以及粮食安全。
+
+	智能农业系统从整体上由 四部分构成,分别是:用户访问平台、农业云平台服务器、 LoRa基站和终端节点。其中用户访问平台指的是 PC 端和 手机客户端,通过它们来监控大棚内的环境情况。农业云 平台服务器负责对整个系统的数据进行处理,并且在其数据库内进行数据保存,LoRa基站负责对终端节点和农业云 平台服务器之间数据的交互,终端节点包括采集节点和控制节点。
+
+	温湿度采集节点、光照采集节点、CO2 采 集节点等称为采集节点,同时控制节点包括风扇控制节点、 卷帘控制节点、加热控制节点等,另外一个 LoRa基站负责 多个农业大棚的终端节点,一个农业云平台服务器负责多个LoRa基站。在本系统的总体设计中支持上与下双向数据 传输。从下至上时,首先通过采集节点采集到大棚内温湿 度、光照强度、CO2 浓度等信息的数据,经 LoRa 网络自组 网方式传输到LoRa基站,然后经过3G/4G/有线宽带网络 上传到农业云平台服务器,实现与用户访问平台的对接。 从上至下时,用户访问平台首先通过互联网发送指令给农 业云平台服务器,然后经由 3 G/4 G/有线宽带网络发送给 LoRa基站,最后再经过 LoRa 无线网络发给控制节点,通 过控制风扇、卷帘、加热器的开关来调节大棚内的环境, 从而实现了对控制设备的控制。
+
+	主题：LoRa无线技术。对于集成式传感器的研究：使用传感器收集土壤肥力，土壤湿度，微量元素，光照等生长环境的数据和监测植物生长状态。对于小型民用无人机技术的研究 发展和进步。
+
+
+
+
+
+
+
+
+Reference source [3]
+	“Drones and Neural Networking Used to Identify Citrus Trees from Above”，Stefan Tasevski
+##https://dronebelow.com/2018/11/27/drones-and-neural-networking-used-to-identify-citrus-trees-from-above/
+
+
+主题：UAVs represent a low-cost method for image acquisition with successful and promising usage in tree identification analysis, particularly in agricultural settings.
+对于图像识别的研究（用图像分析出植物的生长情况和结果情况）
+
+
+
+Reference source [4]
+	The_Effects_of_Cold_Chain_Logistics_and.pdf
+	Design_and_fabrication_of_Windchill_for.pdf
+
+主题：对于城市交通和冷链配送的研究/对农作物的仓储的研究
+
+
+
+
+Reference source [5] 
+	经济学人0831.pdf
+
+主题：对于立体农场的研究和前景
+
+
+
+Reference source [5] 
+	Natural Disaster Prevention
+##https://sites.google.com/site/naturaldisasterpreventiongin/prevention-prediction
+
+
+主题：对Natural Disaster Prevention的预测，为农场选址和农作物的种植选择最佳地点。
+
+
+
+
